@@ -1,0 +1,18 @@
+{
+  "name": "temp_game",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "heic2any": "^0.0.4",
+    "idb-keyval": "^6.2.2"
+  }
+}
